@@ -2,7 +2,7 @@
 
 Team:
 
-Pierce Avner:  jpavner13 \n
+Pierce Avner:  jpavner13
 Ben Calkins:   BenCalkins
 Ethan Trapp:   ettr6128
 Nick O'Connor: nick0connor
