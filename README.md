@@ -3,7 +3,7 @@
 ## Team:
 
 <<<<<<< HEAD
-OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
+No more conflict
 Pierce Avner:  jpavner13\n
 Ben Calkins:   BenCalkins\n
 Ethan Trapp:   ettr6128\n
