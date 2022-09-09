@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 Project Team Members:\n
 =======
-OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
+OH NO, MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
 >>>>>>> main
 Pierce Avner:  jpavner13\n
 Ben Calkins:   BenCalkins\n
