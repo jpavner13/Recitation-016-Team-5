@@ -2,11 +2,13 @@
 
 ## Team:
 
+
 No more conflict
 Pierce Avner:  jpavner13\n
 Ben Calkins:   BenCalkins\n
 Ethan Trapp:   ettr6128\n
 Nick O'Conner: nick0connor\n
+
 OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???
 Pierce Avner:  jpavner13
 
