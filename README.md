@@ -10,7 +10,7 @@ asdfa
 i
 Ben Calkins:   BenCalkins\n
 Ethae Trapp:   ettr6128\n
-Nick O'Conner: nick0connor\n
+Nick O'Conner: nick0connor\n (this is not fixed)
 =======
 OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???
 Pierce Avner:  jpavner13
