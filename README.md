@@ -7,7 +7,7 @@ OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
 Pierce Avner:  jpavner13\n
 Ben Calkins:   BenCalkins\n
 Ethan Trapp:   ettr6128\n
-Nick O'Conner: nick0connor\n
+Nick O'Connor: nick0connor\n (fixed)
 =======
 OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???
 Pierce Avner:  jpavner13
