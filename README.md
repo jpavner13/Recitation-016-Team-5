@@ -6,9 +6,10 @@ Nick O'Connor's Branch
 
 <<<<<<< HEAD
 OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
-Pierce Avner:  jpavner13\n
+asdfa
+i
 Ben Calkins:   BenCalkins\n
-Ethan Trapp:   ettr6128\n
+Ethae Trapp:   ettr6128\n
 Nick O'Conner: nick0connor\n
 =======
 OH NO!!!!! MERGE CONFLICT!!!! WHATEVER SHALL WE DO???
