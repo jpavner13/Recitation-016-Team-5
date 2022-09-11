@@ -27,5 +27,6 @@ Ethan Trapp:   ettr6128
 
 Nick O'Connor: nick0conno
 
-edit on main for merge conflict
-
+Writing something in my branch.
+edit on main for merge conflict(Fixed)
+adding even more thru github review feature
