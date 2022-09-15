@@ -9,6 +9,7 @@ Project Team Members:\n
 OH NO, MERGE CONFLICT!!!! WHATEVER SHALL WE DO???\n
 >>>>>>> main
 Pierce Avner:  jpavner13\n
+Change made on Pierce Branch\n
 Ben Calkins:   BenCalkins\n
 Ethan Trapp:   ettr6128\n
 Nick O'Conner: nick0connor\n
